@@ -1,6 +1,9 @@
 ## Tetris build using React.js
+![image](https://github.com/JacksDK2102/Tetris-React-JS/assets/108046050/b9ec05ec-d9eb-4b8b-a660-73ccc4d7615d)
 
 ## Level going up by clearing 10 rows
+
+![image](https://github.com/JacksDK2102/Tetris-React-JS/assets/108046050/856d0964-e093-4578-aa69-1dd1b572ae54)
 
 ## Navigate the tetrominos using the arrows key:
 ### -> = Right
