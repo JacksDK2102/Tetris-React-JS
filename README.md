@@ -1,12 +1,12 @@
-Tetris build using React.js
+## Tetris build using React.js
 
 Level going up by clearing 10 rows
 
-navigate the tetrominos using the arrows key:
--> = Right
-<- = Left
-↑ = Rotate the Tetrominos
-↓ = Drop / Lowering the Tetrominos.
+# navigate the tetrominos using the arrows key:
+### -> = Right
+### <- = Left
+### ↑ = Rotate the Tetrominos
+### ↓ = Drop / Lowering the Tetrominos.
 
 The Tetromino Shapes are One-sided tetrominoes which are: 
 I / Straight: vertical and horizontal reflection symmetry, and two-fold rotational symmetry
